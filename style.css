@@ -382,11 +382,12 @@ header {
     .background {
         display: block;
     }
+    .display-block {
+       display: block;
+    }
 }
 
-.display-block {
-        display: block;
-    }
+
 .rotation {
     transform: rotate(180deg);
 }
